@@ -58,3 +58,10 @@ body {
     font-size: 15px;
     color: #333333;
 }
+
+.complete {
+    color: green;
+    font-style: italic;
+    text-decoration: line-through;
+    transition: all 1s;
+}
