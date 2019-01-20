@@ -1,2 +1,2 @@
-# Todo-List App (React.js)
-A Todo-list app made with React.
+# Todo-List App (React)
+A Todo-list app made with React (for practice).
